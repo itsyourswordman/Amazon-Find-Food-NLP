@@ -1,6 +1,8 @@
 # Amazon-Find-Food-NLP
 
-# Sentiment analysis is one of the major tasks of Natural Language Processing. It has brought much attention in recent years. Since sentiment analysis of product reviews has recently become very popular in text mining and computational linguistics research, we would like to predict customers’ sentiments on Amazon’s fine foods reviews. Just for your information, pet food is included. 
+## Sentiment analysis is one of the major tasks of Natural Language Processing. It has brought much attention in recent years. 
+## Since sentiment analysis of product reviews has recently become very popular in text mining and computational linguistics research, we would like to predict customers’ sentiments on Amazon’s fine foods reviews. 
+### Just for your information, pet food is included. 
 
 ## NLTK to extract key features, including tokenization,  stopwords removal, and stemming(Bi-gram and Trigram Bow)
 
